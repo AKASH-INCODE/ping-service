@@ -3,6 +3,8 @@ import requests
 URLS = [
     "https://fraud-frontend-5ag2.onrender.com",
     "https://fraud-detection-backend-zvxe.onrender.com/docs",
+    "https://docrepo.onrender.com",
+    "https://attender-auwz.onrender.com/",
 ]
 
 for url in URLS:
